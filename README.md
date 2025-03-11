@@ -1,6 +1,4 @@
-from pathlib import Path
-
-README_CONTENT = """# Project Aurora
+# Project Aurora
 
 A sophisticated machine learning initiative to train the Aurora AI model, designed for advanced natural language processing and predictive tasks.
 
