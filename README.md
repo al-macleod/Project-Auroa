@@ -16,7 +16,7 @@ Aurora integrates a Transformer-based architecture with embeddings from the Olla
 - **Embedding Source**: Local Ollama server (`http://127.0.0.1:11434`).
 - **User Interface**: PyQt5-based GUI for parameter tuning and progress tracking.
 
-## Why We Wanted to Make This
+## Why I Wanted to Make This
 The Aurora project was born from a desire to democratize advanced AI development by combining state-of-the-art Transformer models with accessible, open-source tools like Ollama. We aimed to create a flexible, GPU-accelerated training framework that empowers researchers and hobbyists alike to experiment with large-scale language models without requiring enterprise-level resources. Our goal was to bridge the gap between cutting-edge AI research and practical, hands-on implementation, fostering innovation in a rapidly evolving field.
 
 ## Requirements
