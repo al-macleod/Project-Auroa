@@ -64,12 +64,13 @@ ProjectAurora/
 ├── README.md       # This file
 ├── requirements.txt # Dependency list
 └── aurora.log      # Training and initialization logs
-Contributing
+
+***Contributing***
 
 We welcome contributions! Fork the repo, submit a pull request, or open an issue for bugs and feature requests.
 Status
 
-    Current Phase: Initialization and training pipeline operational.
+    * CurrentPhase *  : Initialization and training pipeline operational.
     Next Steps: Optimize embedding fetch, add caching, and support larger datasets.
 
 License
